@@ -2,10 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+node_modules/
 # C extensions
 *.so
-
+package-lock.json
 # Distribution / packaging
 .Python
 build/
